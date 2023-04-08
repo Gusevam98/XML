@@ -1,5 +1,9 @@
 <Card>
 	<name>Maria</name>
+	<surname>Guseva</surname>
+	<patronimyc>Sergeevna</patronimyc>
 	<age>24</age>
 	<city>Nizhny Novgorod</city>
+	<pets>2</pets>
+	<salary>5000</salary
 </Card>
