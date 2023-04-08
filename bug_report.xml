@@ -1,1 +1,6 @@
-
+<bug_report1>
+  <Title>Форма неверно работает на границе значений</Title>
+  <Description>При введении даты, следующей за днем включения воды, выдается неверный результа</Description>
+  <Steps>Перейти по ссылке https://lm.skillbox.cc/qa_tester/module04/homework1, Ввести в поле Дата "25.08.2022", Нажать кнопку ВВОД</Steps>
+  <Actual result>"У ВАС УЖЕ СЕЙЧАС НЕТ ВОДЫ"</Actual result>
+  <Expected result>"ПОЗДРАВЛЯЕМ! СЕГОДНЯ У ВАС ЕСТЬ ГОРЯЧАЯ ВОДА! =)"</Expected result>
